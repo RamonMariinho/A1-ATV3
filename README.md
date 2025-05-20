@@ -18,20 +18,35 @@ Recebe um JSON com nome, CPF e telefone, valida os dados e salva no banco de dad
 
 car-rental/
 ├── pom.xml
+
 ├── src/
+
 │   ├── main/
+
 │   │   ├── java/
+
 │   │   │   └── com/
+
 │   │   │       └── example/
+
 │   │   │           └── carrental/
+
 │   │   │               ├── CarRentalApplication.java
+
 │   │   │               ├── controller/
+
 │   │   │               │   └── ClienteController.java
+
 │   │   │               ├── model/
+
 │   │   │               │   └── Cliente.java
+
 │   │   │               └── repository/
+
 │   │   │                   └── ClienteRepository.java
+
 │   │   └── resources/
+
 │   │       └── application.properties
 
 🐱‍👤 RAMON MARINHO PENACHIO - RA: 172320117
